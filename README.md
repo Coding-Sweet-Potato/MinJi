@@ -1,1 +1,2 @@
 # MinJi
+dbxminz (minji)
